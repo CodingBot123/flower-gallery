@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+}
+#hh{
+    padding-bottom:100px;
+}
+#div1{
+    padding-bottom:50px;
+    }
+.menu{
+    position:fixed;
+padding-left:450px;
+    display:flex;
+    list-style:none;
+    z-index:10;
+ }
+.underline{
+    width:200px;
+    height:7px;
+    margin:20px auto;
+    background-color:black;
+}
+#home{
+    background-color:lightcoral;
+    z-index: 1;
+} 
+#galleryview{
+    background-color:mediumpurple;
+    padding-top:30px;
+    margin-top:-50px;
+}
+.images1{
+    width:300px;
+    height:225px;
+}
+.links{
+    font-size:25px;
+    color:blue;
+    margin:15px;
+        font-family:fantasy;
+}
+.links:hover{
+    cursor:pointer;
+    background-color:white;
+}
+#mycarousel{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.images{
+    width:400px;
+    height:300px;
+}
+#slideview{
+background-color:aquamarine;
+    padding-top:30px;
+    margin-top:-50px;
+    
+}
